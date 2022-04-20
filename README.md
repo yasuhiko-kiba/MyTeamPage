@@ -1,1 +1,1 @@
-[teampage](https://yasuhiko-kiba.github.io/MyTeamPage/)
+[teampage](https://yasuhiko-kiba.github.io/devchallengeMyTeamPage/)
