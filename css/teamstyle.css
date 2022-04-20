@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&family=Poppins:wght@400;600&display=swap');
+
+.content{
+    width: 1440px;
+    height: 1489px;
+    background: #FAFAFA;
+}
+
+.top_description{
+    position: absolute;
+    top: 110px;
+    left: 265px;
+    right: 243px;
+    width: 932px;
+    display: flex;
+}
+
+h1{
+    margin: 0;
+    width: 278px;
+    height: 47px;
+
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    letter-spacing: -0.045em;
+
+    color: #000000;
+    float: left;
+}
+
+.float_right{
+    margin-left: 215px;
+    width: 420px;
+    clear: left;
+}
+
+.WHO_WE_ARE{
+    width: 117px;
+    height: 27px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+
+    text-transform: uppercase;
+
+    color: #000000;
+}
+
+.info{
+    position: relative;
+    top: 10px;
+    width: 439px;
+    height: 87px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+
+    color: #000000;
+}
+
+.main_photos{
+    padding: 330px 275.66px 156px 240px;
+    display: flex;
+}
+
+.box{
+    width: calc(100% / 3);
+}
+
+.flexbox{
+    display: flex;
+}
+
+.box_2{
+    position: relative;
+    top: 126px;
+}
+
+.down_box{
+    position: relative;
+    top: 95px;
+}
+
+.box_4{
+    position: relative;
+    top: 126px;
+}
+
+.box_6{
+    position: relative;
+    top: 126px;
+}
+
+img{
+    width: 238px;
+    height: 342px;
+}
+
+.occupation{
+    width: 102px;
+    height: 16px;
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+
+    text-transform: uppercase;
+
+    color: #000000;
+
+    writing-mode: vertical-rl;
+    white-space: nowrap;
+    text-align: left;
+    position: relative;
+    right: 42px;
+}
+
+p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+
+    color: #000000;
+    margin: 15px 0 ;
+}
+
+footer{
+    position: absolute;
+    width: 287px;
+    height: 17px;
+    left: 547px;
+    top: 1448px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+
+    text-align: center;
+
+    color: #A9A9A9;
+}
+
+.myname{
+    font-weight: 700;
+}
